@@ -1,0 +1,3 @@
+opencv-python>=4.9,<5
+deepface>=0.0.93
+werkzeug>=3.0
